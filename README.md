@@ -1,2 +1,2 @@
 # hello-world
-figuring out how to use github
+Just when I think I'm getting too old for this, an accomplishment keeps me plugging ahead.
